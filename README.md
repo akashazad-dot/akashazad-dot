@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" width="400"  src="<img align="right" width="400"  src="[![image](https://github.com/akashazad-dot/akashazad-dot/assets/75831162/a17aeeb9-b516-4e82-96ef-0d24cc262a33.gif](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW15QVlxd3M0VjdZVkJBazU1bTM4clpZWkt0UXxBQ3Jtc0ttZVBSdW5NZmJBZ3RjVjBQaFgzLTFLUFdIb09GZjNzeUtBcl9oSDNhWGgwckh4MHJKeDdHc002MXNRSTdJM0hqdUNjMmNKS1ZqZGx5cmhaTGFISUw2bUtVN0hYZWdjZEpGOVg1OHR1S09oelczZjJnWQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0))
-" alt="Coding">
+
+<img align="right" alt="coding" width="400" src"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashazad-dot&label=Profile%20views&color=0e75b6&style=flat" alt="akashazad-dot" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
