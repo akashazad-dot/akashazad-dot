@@ -1,3 +1,4 @@
+![logo](https://github.com/vedantjain1112/vedantjain1112/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center">Web Developer</h3>
 
