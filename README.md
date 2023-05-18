@@ -1,4 +1,4 @@
-![logo](https://github.com/vedantjain1112/vedantjain1112/blob/main/banner.jpg)
+![logo]([https://github.com/vedantjain1112/vedantjain1112/blob/main/banner.jpg](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg))
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center">Web Developer</h3>
 
