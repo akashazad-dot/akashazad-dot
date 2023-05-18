@@ -1,4 +1,4 @@
-![logo]((https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg))
+![logo](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center">Web Developer</h3>
 
