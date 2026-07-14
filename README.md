@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akashazad-dot.github.io/My-Portfolio/](https://akashazad-dot.github.io/My-Portfolio/)
 
-- 📫 How to reach me akashazad9941@*gamil.com
+- 📫 How to reach me ****akashazad9941@*gamil.com****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
